@@ -1,2 +1,1 @@
-# SQLProject1
-This project is about writing queries.
+This project is about data cleaning and data transformation.
